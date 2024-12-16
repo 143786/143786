@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik TABISH</h1>
-<h3 align="center">A passionate full Stack Developer From Lyon</h3>
+<h3 align="center">A passionate Full-Stack Developer From Lyon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=143786&label=Profile%20views&color=0e75b6&style=flat" alt="143786" /> </p>
 
